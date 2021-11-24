@@ -30,7 +30,7 @@ print ( np_images.shape ) # unflatten gives something like (28, 250, 250, 3)
 #np_images = np_images.flatten()
 
 
-int_labels = labels_str_to_int( labels )
+int_labels = p_data.labels_str_to_int( labels )
 np_labels = np.array( int_labels, dtype="uint8" ) # this part is causing problems, the "n"
 print ( np_labels.shape )
 #np_labels = np_labels.reshape(-1, 28*28)
