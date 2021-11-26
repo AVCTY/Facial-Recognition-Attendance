@@ -6,4 +6,4 @@ Machine learning project for creating a face recognition based attendance system
 Mobilenet model used for face recognition
 
 ## Deep Metric Learning
-Model used for face recognition
+Siamese Network with contrastive loss used for face recognition
