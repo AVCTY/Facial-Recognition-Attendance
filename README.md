@@ -15,7 +15,7 @@ Siamese Network with contrastive loss used for face recognition
 ![plot](./screenshots/face_verified_attendance_taken.png)
 
 ## How to use:
-To use the main program, read the README file in the program folder and follow the steps inside.
+To use the main program, read the README file in the main_program folder and follow the steps inside.
 
 Ensure that the requirements are installed using: pip install -r requirements.
 
