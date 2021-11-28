@@ -10,9 +10,13 @@ Machine learning project for creating a face recognition based attendance system
 - Siamese Network with contrastive loss used for face recognition
 
 ## Program Preview
+### Login area
 ![plot](./screenshots/login_area.png)
+### Face verification area after user is logged in
 ![plot](./screenshots/face_verification_area.png)
+### Deteced unknown face, prompts user to check uploaded image
 ![plot](./screenshots/unknown_face.png)
+### Face identified and verified with attendance being taken
 ![plot](./screenshots/face_verified_attendance_taken.png)
 
 ## How to use:
