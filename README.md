@@ -1,4 +1,4 @@
-# ML-Project
+# Facial Recognition Attendace System
 Machine learning project for creating a face recognition based attendance system.
 
 # Methods used
